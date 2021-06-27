@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/simulate-iter-awun",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create an iterator which introduces additive white uniform noise.",
   "license": "Apache-2.0",
   "author": {
