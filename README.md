@@ -50,7 +50,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterawun from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-awun@esm/index.mjs';
+import iterawun from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-awun@v0.2.1-esm/index.mjs';
 ```
 
 #### iterawun( iterator, sigma\[, options] )
@@ -186,7 +186,7 @@ var bool = ( it1.next().value === it2.next().value );
 <script type="module">
 
 import iterSineWave from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-sine-wave@esm/index.mjs';
-import iterawun from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-awun@esm/index.mjs';
+import iterawun from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-awun@v0.2.1-esm/index.mjs';
 
 // Create an iterator for generating a sine wave:
 var sine = iterSineWave({
